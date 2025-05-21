@@ -9,4 +9,6 @@ About me:
 - 🔧 I work with Excel, and Power BI to analyze data, create reports, and generate insights.
 - 👨‍💻 All of my Projects are available [here](https://codebasics.io/portfolio/Jesus-Yepez)
 
+**Thanks for checking!**
+
 -->
